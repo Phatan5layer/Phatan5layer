@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umer Khan
-- 🌱 I’m currently learning Block chain technologies and devops
+- 🌱 I’m currently learning Block chain technologies 
 - 📫 How to reach me: Twitter @business5layer
 
 <!---
