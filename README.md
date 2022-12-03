@@ -1,4 +1,4 @@
-- 🌱 Currently learning Block chain technologies 
+- 🌱 Currently learning Data engineering   
 - 📫 How to reach me: Twitter @business5layer
 
 <!---
