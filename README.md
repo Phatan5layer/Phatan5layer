@@ -1,5 +1,5 @@
 - 🌱 Currently learning Data engineering   
-- 📫 How to reach me: Twitter @business5layer
+- 📫 You can message me here or on Twitter @business5layer
 
 <!---
 Phatan5layer/Phatan5layer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
