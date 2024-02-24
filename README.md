@@ -1,4 +1,4 @@
-- 🌱 Currently learning Data engineering   
+- 🌱 Currently learning Data engineering & pursing AWS-CSA-A cert || SnowPro cert
 - 📫 You can message me here or on Twitter @business5layer
 
 <!---
